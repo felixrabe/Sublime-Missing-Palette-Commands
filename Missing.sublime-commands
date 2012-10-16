@@ -20,6 +20,9 @@
     { "caption": "Permute Selections: Unique", "command": "permute_selection", "args": {"operation": "unique"} },
     { "caption": "Permute Selections: Shuffle", "command": "permute_selection", "args": {"operation": "shuffle"} },
 
+    // Selection Menu
+    { "caption": "Single Selection", "command": "single_selection" },
+
     // Find Menu
     { "caption": "Find", "command": "show_panel", "args": {"panel": "find"} },
     { "caption": "Find in Files", "command": "show_panel", "args": {"panel": "find_in_files"} },
